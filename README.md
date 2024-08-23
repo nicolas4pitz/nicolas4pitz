@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0e31c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+Welcome+to+my+profile+👋;I'm+18+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
 
 <div align="center" justify-content="space-between" display="flex">
-  <img gap="50px" src="https://github-readme-stats.vercel.app/api?username=nickzinon&count_private=true&show_icons=true&theme=merko"></img>
-  <img gap="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickzinon&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readme"></img>
+  <img gap="50px" src="https://github-readme-stats.vercel.app/api?username=nicolas4pitz&count_private=true&show_icons=true&theme=merko"></img>
+  <img gap="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas4pitz&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readme"></img>
 </div>
 
 
@@ -26,6 +26,6 @@
 </div>
 <br>
 
-![Snake animation](https://github.com/nickzinon/nickzinon/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange)
+![Snake animation](https://github.com/nicolas4pitz/nicolas4pitz/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbf00&height=120&section=footer"/>
