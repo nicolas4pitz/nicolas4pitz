@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0e31c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+Welcome+to+my+profile+👋;I'm+18+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
 
 <div align="center" justify-content="space-between" display="flex">
-  <img gap="50px" src="https://github-readme-stats.vercel.app/api?username=nickxzin&count_private=true&show_icons=true&theme=merko"></img>
-  <img gap="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickxzin&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readme"></img>
+  <img gap="50px" src="https://github-readme-stats.vercel.app/api?username=nickzinon&count_private=true&show_icons=true&theme=merko"></img>
+  <img gap="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickzinon&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readme"></img>
 </div>
 
 
