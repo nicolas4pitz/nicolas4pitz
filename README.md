@@ -4,7 +4,7 @@
 
 <div align="center" justify-content="space-between" display="flex">
   <img gap="50px" src="https://github-readme-stats.vercel.app/api?username=nicolas4pitz&count_private=true&show_icons=true&theme=merko"></img>
-  <img gap="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas4pitz&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readme"></img>
+  <img gap="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas4pitz&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readmee"></img>
 </div>
 
 
