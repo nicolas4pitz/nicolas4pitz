@@ -1,19 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbf00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0e31c&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+Welcome+to+my+profile+👋;I'm+18+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
+### Hi there, I am Nícolas Pitz 👋
 
-<div align="center" justify-content="space-between" display="flex">
-  <img gap="50px" src="https://github-readme-stats.vercel.app/api?username=nicolas4pitz&count_private=true&show_icons=true&theme=merko"></img>
-  <img gap="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas4pitz&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readmee"></img>
-</div>
+> A front-end developer from **Santa Catarina, Brazil**.
 
 
-<div align="center"> 
-  <a href="mailto:nicolas.pzdev@gmail.com" target="_blank"><img='https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white'></a>
-  <a href = "mailto:nicolas.pzdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolas-pitz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+  
 
+
+### 📫 Reach me:
+
+- **Whatsapp** : 48996273774
+- **Phone** : +55 48996273774
+- **E-mail** : nicolas2004pitz@gmail.com
+
+> ### Hi, I am currently looking for a new job opportunity. I study Computer Science. my contact info is above. Feel free to contact me at any time !
+>
+> ### Olá, estou procurando uma nova oportunidade de emprego. Estudo Ciências da Computação. Meus dados de contato estão acima. Sinta-se à vontade para entrar em contato comigo a qualquer momento!
+
+### 📊 Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas4pitz&count_private=true&show_icons=true&theme=merko"></img> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/? |username=nicolas4pitz&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readmee"></img>
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <h2><strong>Languages:</strong><h2>
 <div style="display: inline_block; text-align: center;">
@@ -25,7 +33,5 @@
   <img src = 'https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
 </div>
 <br>
-
-![Snake animation](https://github.com/nicolas4pitz/nicolas4pitz/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbf00&height=120&section=footer"/>
