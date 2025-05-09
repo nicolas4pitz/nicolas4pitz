@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbf00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFBFE&height=120&section=header"/>
 
 <p align="center"><img align="center" width="100%" src="/assets/header.png" /></p>
 
@@ -45,4 +45,4 @@
 
 [![N1CkxZ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolas4pitz&theme=react-dark)](https://github.com/nicolas4pitz/github-readme-activity-graph)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbf00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFBFE&height=120&section=footer"/>
