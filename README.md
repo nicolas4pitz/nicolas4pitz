@@ -24,7 +24,7 @@
 
 ### 📊 Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas4pitz&count_private=true&show_icons=true&theme=merko"></img> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas4pitz&layout=compact&theme=buefy&hide_border=true" alt="" ></img>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas4pitz&count_private=true&show_icons=true&theme=merko"></img> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas4pitz&exclude_repo=ProjetoIntegrador&layout=compact&theme=buefy&hide_border=true" alt="readme"></img>
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 🖥️ Technologies/Languages:
