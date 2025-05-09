@@ -4,9 +4,13 @@
 
 > A front-end developer from **Santa Catarina, Brazil**.
 
+### 🏗️ Learning:
 
-  
-
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></code>
 
 ### 📫 Reach me:
 
@@ -20,18 +24,23 @@
 
 ### 📊 Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas4pitz&count_private=true&show_icons=true&theme=merko"></img> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/? |username=nicolas4pitz&exclude_repo=ProjetoIntegrador&theme=merko" rel="status readmee"></img>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas4pitz&count_private=true&show_icons=true&theme=merko"></img> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas4pitz&layout=compact&theme=buefy&hide_border=true" alt="" ></img>
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<h2><strong>Languages:</strong><h2>
-<div style="display: inline_block; text-align: center;">
-  <img src = 'https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-  <img src = 'https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'>
-  <img src = 'https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
-  <img src = 'https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
-</div>
-<br>
+### 🖥️ Technologies/Languages:
+
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+<code><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></code>
+<code><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/></code>
+<code><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/></code>
+
+### 📈 Activity Graph:
+
+[![N1CkxZ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolas4pitz&theme=react-dark)](https://github.com/nicolas4pitz/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbf00&height=120&section=footer"/>
