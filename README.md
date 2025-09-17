@@ -4,7 +4,7 @@
 
 ### Hi there, I am Nícolas Pitz 👋
 
-> A front-end developer from **Santa Catarina, Brazil**.
+> A front-end developer from **Brazil**.
 
 ### 🏗️ Learning:
 
