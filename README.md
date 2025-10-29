@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFBFE&height=120&section=header"/>
 
-<p align="center"><img align="center" width="100%" src="assets/header.png"/></p>
+<p align="center"><img align="center" width="100%" src="image.png"/></p>
 
 ### Hi there, I am Nícolas Pitz 👋
 
