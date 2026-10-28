@@ -1,6 +1,6 @@
 #### Hello 
 
-<p align="center">
+<a align="center">
   <picture>
     <source 
       srcset="https://github-stats-extended.vercel.app/api?username=nicolas4pitz&custom_title=nicolas4pitz%20code%20stats&show_icons=true&theme=github_dark_dimmed"
@@ -23,7 +23,7 @@
     />
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nicolas4pitz&layout=compact&theme=catppuccin_latte" alt="Top Languages" />
   </picture>
-</p>
+</a>
 
 > [!TIP]  
 > Computer Science student and software developer based in Brazil. Passionate about building modern web applications, high-performance systems in Rust, and exploring microservices architectures. For collaboration or job opportunities, contact me at [nicolas2004pitz@gmail.com](mailto:nicolas2004pitz@gmail.com) or visit my portfolio at [nicolaspitz.dev](https://nicolaspitz.dev/).
